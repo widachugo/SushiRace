@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fa6f0c73a0c8bd429e88292c2ded54d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - endCanvas: {instanceID: 0}
+  - victoryText: {instanceID: 0}
+  - endParticle: {fileID: 4655567906585519765, guid: b0bafeeb94b95894e9e7255821758a0f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

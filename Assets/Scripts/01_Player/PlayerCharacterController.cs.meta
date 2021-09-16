@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 90fe64f7b8f2fd5478352dd6550f89d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - runParticle: {fileID: 6787886201938404813, guid: 3c6687c82c491a645b3483abe11fcf3c,
+      type: 3}
+  - jumpParticle: {fileID: 379593641595537649, guid: b8c04e2634f7c8b40bb08adbf39bbe47,
+      type: 3}
+  - fallJumpParticle: {fileID: 3930763137801269464, guid: 2e273a9c18e41d04ca4158194bb2ed8e,
+      type: 3}
+  - waterParticle: {fileID: 1160672332143568459, guid: 2d8a1f7112f94854e85b63f7e92c1159,
+      type: 3}
+  - oilParticle: {fileID: 3800107131405698317, guid: 065d01368a9af4045b51ca42cd013a64,
+      type: 3}
+  - eatParticle: {fileID: 3338063733826261983, guid: 89b702c8b418f0c43923e7e4f5db3f98,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
